@@ -1,0 +1,14 @@
+C:\Users\opilane\Desktop\Repeat-master\Repeat\bin\Debug\Repeat.exe.config
+C:\Users\opilane\Desktop\Repeat-master\Repeat\bin\Debug\Repeat.exe
+C:\Users\opilane\Desktop\Repeat-master\Repeat\bin\Debug\Repeat.pdb
+C:\Users\opilane\Desktop\Repeat-master\Repeat\obj\Debug\Repeat.csprojAssemblyReference.cache
+C:\Users\opilane\Desktop\Repeat-master\Repeat\obj\Debug\Repeat.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\Repeat-master\Repeat\obj\Debug\Repeat.exe
+C:\Users\opilane\Desktop\Repeat-master\Repeat\obj\Debug\Repeat.pdb
+C:\Users\opilane\source\repos\Repeat-master\Repeat\bin\Debug\Repeat.exe.config
+C:\Users\opilane\source\repos\Repeat-master\Repeat\bin\Debug\Repeat.exe
+C:\Users\opilane\source\repos\Repeat-master\Repeat\bin\Debug\Repeat.pdb
+C:\Users\opilane\source\repos\Repeat-master\Repeat\obj\Debug\Repeat.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Repeat-master\Repeat\obj\Debug\Repeat.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Repeat-master\Repeat\obj\Debug\Repeat.exe
+C:\Users\opilane\source\repos\Repeat-master\Repeat\obj\Debug\Repeat.pdb
