@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Repeat.ifort</StartupObject>
+    <StartupObject>Repeat.Abivahend</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>Trollface.ico</ApplicationIcon>
@@ -49,6 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abivahend.cs" />
+    <Compile Include="Alamprogram.cs" />
     <Compile Include="ifort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
